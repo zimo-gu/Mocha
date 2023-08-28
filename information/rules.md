@@ -14,7 +14,7 @@ nav_order: 1
 1. TOC
 {:toc}
 
-There are specific rules you must abide by, when chatting in the Vivid Airways discord server, to avoid punishments given out by our moderators.
+There are specific rules you must abide by, when chatting in the Mocha discord server, to avoid punishments given out by our moderators.
 
 ## Rules
 {:toc}
