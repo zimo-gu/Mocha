@@ -1,6 +1,6 @@
 # Vivid Airways
 
-This repository holds the source of the VA support website.
+This repository holds the source of the Mocha support website.
 
 ## Contributing?
 When contributing, ensure that you keep the style consistent with the other pages of the website.
