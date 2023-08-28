@@ -8,5 +8,5 @@ permalink: /information
 
 
 # Information
-Here, community members can find information about Vivid Airways.
+Here, community members can find information about Mocha.
  
