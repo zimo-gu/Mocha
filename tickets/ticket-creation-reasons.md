@@ -14,7 +14,7 @@ nav_order: 3
 1. TOC
 {:toc}
 
-Tickets are used in Vivid Airways to report various punishments, request clarifications, and more. Below, community members can find the acceptable and unacceptable reasons to create a ticket.
+Tickets are used in Mocha to report various punishments, request clarifications, and more. Below, community members can find the acceptable and unacceptable reasons to create a ticket.
 
 **Note:**
 {:.text-red-000} 
@@ -66,7 +66,6 @@ Tickets are used in Vivid Airways to report various punishments, request clarifi
 | Trolling, spamming, capitals abuse, or unprofessionalism - STAFF MEMBER+ |
 | Trolling/unprofessionalism at alliances or non-affiliated establishments - MIDDLE RANK+ | 
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively |
-| Crashing the plane - STAFF MEMBER+ |
 {:.text-green-100} 
 
 ## Unacceptable Reasons 
