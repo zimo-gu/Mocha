@@ -1,4 +1,4 @@
-# Vivid Airways
+# Mocha
 
 This repository holds the source of the Mocha support website.
 
