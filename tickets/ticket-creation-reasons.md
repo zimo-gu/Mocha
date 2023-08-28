@@ -36,7 +36,7 @@ Tickets are used in Mocha to report various punishments, request clarifications,
 | Claiming an HR rank after resigning or being reformed |
 | Clarification regarding a rule that can only be answered by a High Rank member |
 | Cuff abuse | 
-| Dancing/standing on the plane - MIDDLE RANK+ | 
+| Dancing/standing on the registers | 
 | Discrimination |
 | Encouragement of suicide or self-harm |
 | Exploiting, hacking, or glitching | 
@@ -51,9 +51,9 @@ Tickets are used in Mocha to report various punishments, request clarifications,
 | Lack of grammar - STAFF MEMBERS | 
 | Leaking chats or confidential information |
 | Major death threats | 
-| Outdated information on an official Vivid Airways source |
+| Outdated information on an official Mocha source |
 | Playing inappropriate or loud audios | 
-| Playing with ranking guns or misusing them | 
+| Playing with ranking commands or misusing them | 
 | Racism |
 | Raiding |
 | Rank transfers | 
